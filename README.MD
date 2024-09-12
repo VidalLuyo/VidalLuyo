@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sobre mí<br>¡Hola! Soy Jesús Vidal Luyo tengo 19 años y soy de Perú, siempre en busca de nuevos desafíos y oportunidades para aprender. Mi enfoque principal es el desarrollo de software y tengo un deseo constante de mejorar mis habilidades técnicas y colaborar en proyectos innovadores. Me entusiasma la idea de contribuir a soluciones reales y creativas que impacten positivamente a las personas y organizaciones.<br><br>Soy autodidacta, persistente y siempre estoy dispuesto a superar obstáculos. Mi objetivo es destacar en la industria tecnológica y trabajar en proyectos donde pueda aportar mi creatividad y energía.<br>
+<br>¡Hola! Soy Jesús Vidal Luyo tengo 19 años y soy de Perú, siempre en busca de nuevos desafíos y oportunidades para aprender. Mi enfoque principal es el desarrollo de software y tengo un deseo constante de mejorar mis habilidades técnicas y colaborar en proyectos innovadores. Me entusiasma la idea de contribuir a soluciones reales y creativas que impacten positivamente a las personas y organizaciones.<br><br>Soy autodidacta, persistente y siempre estoy dispuesto a superar obstáculos. Mi objetivo es destacar en la industria tecnológica y trabajar en proyectos donde pueda aportar mi creatividad y energía.<br>
 
 
 ## 🌐 Socials:
