@@ -28,9 +28,5 @@
 
 ### 👁 Visits
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/VidalLuyo/count.svg?"  />
-</div>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
