@@ -3,20 +3,23 @@
 ```
 ╔═════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                     ║
-║   V     V IIIIIII DDDDDD     A    L               L       U     U Y     Y  OOOOO    ║
-║   V     V    I    D     D   A A   L               L       U     U  Y   Y  O     O   ║
-║    V   V     I    D     D  AAAAA  L               L       U     U   Y Y   O     O   ║
-║     V V      I    D     D A     A L               L       U     U    Y    O     O   ║
-║      V    IIIIIII DDDDDD  A     A LLLLLLL         LLLLLLL  UUUUU     Y     OOOOO    ║
+║   BBBBBB  IIIIIII EEEEEEE N     N V     V EEEEEEE N     N IIIIIII DDDDDD   OOOOO    ║
+║   B     B    I    E       NN    N V     V E       NN    N    I    D     D O     O   ║
+║   BBBBBB     I    EEEEEEE N N   N  V   V  EEEEEEE N N   N    I    D     D O     O   ║
+║   B     B    I    E       N  N  N   V V   E       N  N  N    I    D     D O     O   ║
+║   BBBBBB  IIIIIII EEEEEEE N   NNN    V    EEEEEEE N   NNN IIIIIII DDDDDD   OOOOO    ║
+║   DDDDDD  EEEEEEE V     V EEEEEEE L        OOOOO  PPPPPP  EEEEEEE RRRRRR            ║
+║   D     D E       V     V E       L       O     O P     P E       R     R           ║
+║   D     D EEEEEEE  V   V  EEEEEEE L       O     O PPPPPP  EEEEEEE RRRRRR            ║
+║   D     D E         V V   E       L       O     O P       E       R   R             ║
+║   DDDDDD  EEEEEEE    V    EEEEEEE LLLLLLL  OOOOO  P       EEEEEEE R    R            ║
 ║                                                                                     ║
 ╚═════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
   <h1>👋 ¡Bienvenido Developer!</h1>
-
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&random=false&width=560&lines=Bienvenido+DevOps+%F0%9F%9A%80;Bienvenido+Developer+%F0%9F%92%BB;Desarrollador+de+Software+%E2%9A%99%EF%B8%8F;Ca%C3%B1ete+-+Lima+-+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA;Gracias+por+visitar+%F0%9F%92%99" alt="Typing SVG" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=VidalLuyo&label=Visitas+al+perfil&color=22D3EE&style=for-the-badge" alt="Profile views" />
+  <img src="https://countapi.mileshilliard.com/api/v1/hit/vidalluyo_views/shield?text=Visitas+al+perfil&bgcolor=22D3EE&textcolor=ffffff&style=plastic" alt="Profile views" />
   <img src="https://img.shields.io/badge/📍%20Perú-verde?style=for-the-badge&color=2c2c2c" alt="Perú" />
 </div>
 
@@ -91,5 +94,5 @@
 <div align="center">
   <i>Gracias por visitar mi perfil 💙 — hecho con ❤️ en Cañete, Perú 🇵🇪</i>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=VidalLuyo&label=Visitas&color=22D3EE&style=for-the-badge" alt="Profile views" />
+  <img src="https://countapi.mileshilliard.com/api/v1/get/vidalluyo_views/shield?text=Visitas&bgcolor=22D3EE&textcolor=ffffff&style=plastic" alt="Profile views" />
 </div>
