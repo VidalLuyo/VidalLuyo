@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
 +================================================================================+
 |                                                                              |
@@ -8,7 +6,7 @@
 | ██████╔╝██║█████╗  ██╔██╗ ██║██║   ██║█████╗  ██╔██╗ ██║██║██║  ██║██║   ██║ |
 | ██╔══██╗██║██╔══╝  ██║╚██╗██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║██║  ██║██║   ██║ |
 | ██████╔╝██║███████╗██║ ╚████║ ╚████╔╝ ███████╗██║ ╚████║██║██████╔╝╚██████╔╝ |
-| ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═══╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚═╝╚═════╝  ╚═════╝  |
+| ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚═╝╚═════╝  ╚═════╝  ╚═════╝  |
 | ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗    |
 | ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗   |
 | ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝   |
@@ -18,14 +16,6 @@
 |                                                                              |
 +================================================================================+
 ```
-
-  <h1>👋 ¡Bienvenido Developer!</h1>
-  <br>
-  <img src="https://countapi.mileshilliard.com/api/v1/hit/vidalluyo_views/shield?text=Visitas+al+perfil&bgcolor=22D3EE&textcolor=ffffff&style=plastic" alt="Profile views" />
-  <img src="https://img.shields.io/badge/📍%20Perú-verde?style=for-the-badge&color=2c2c2c" alt="Perú" />
-</div>
-
----
 
 # 💫 About Me:
 <br>¡Hola! Soy **Jesús Vidal Luyo**, soy de **Cañete, Lima, Perú** 🇵🇪, siempre en busca de nuevos desafíos y oportunidades para aprender. Mi enfoque principal es el desarrollo de software y tengo un deseo constante de mejorar mis habilidades técnicas y colaborar en proyectos innovadores. Me entusiasma la idea de contribuir a soluciones reales y creativas que impacten positivamente a las personas y organizaciones.<br><br>Soy autodidacta, persistente y siempre estoy dispuesto a superar obstáculos. Mi objetivo es destacar en la industria tecnológica y trabajar en proyectos donde pueda aportar mi creatividad y energía.<br>
@@ -96,5 +86,5 @@
 <div align="center">
   <i>Gracias por visitar mi perfil 💙 — hecho con ❤️ en Cañete, Perú 🇵🇪</i>
   <br>
-  <img src="https://countapi.mileshilliard.com/api/v1/get/vidalluyo_views/shield?text=Visitas&bgcolor=22D3EE&textcolor=ffffff&style=plastic" alt="Profile views" />
+  <img src="https://countapi.mileshilliard.com/api/v1/hit/vidalluyo_views/shield?text=Visitas&bgcolor=22D3EE&textcolor=ffffff&style=plastic" alt="Profile views" />
 </div>
